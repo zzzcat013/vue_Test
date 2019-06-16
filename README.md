@@ -1,6 +1,6 @@
 # simple
 
-## 这是
+## 这是一个用git 管理的 vue 范例
 ## Project setup
 ```
 npm install
