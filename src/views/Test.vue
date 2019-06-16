@@ -10,5 +10,6 @@
 <style scoped>
     .about {
         color : red;
+        background: aqua;
     }
 </style>
