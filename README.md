@@ -34,3 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 >>>git config --global user.email "6405614+zzzcat013@users.noreply.github.com"
 >git commit --amend --reset-author
 >git push
+>git push -u origin dev  -f 
+>git pull -f --all
+
+
+
