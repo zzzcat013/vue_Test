@@ -25,10 +25,10 @@ npm run test
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## git command
+### git command
 git remote add origin https://github.com/zzzcat013/vue_Test.git
 git push -u origin master
- git br -a
+git br -a
 git co dev
 git push -u origin dev
 git config --global user.email "6405614+zzzcat013@users.noreply.github.com"
