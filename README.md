@@ -27,6 +27,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## git 管理
 ### git command
+
 git remote add origin https://github.com/zzzcat013/vue_Test.git
 
 git push -u origin master
