@@ -6,3 +6,9 @@
         <h2>333</h2>
     </div>
 </template>
+
+<style scoped>
+    .about {
+        color : red;
+    }
+</style>
