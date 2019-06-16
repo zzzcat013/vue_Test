@@ -103,4 +103,7 @@ git pull -f --all
     git remote prune origin #删除远程已经删除过的分支
     
     git push origin -d  #删除远程分支
+    
+    git remote -v # 查看远程的服务器
+    
 
